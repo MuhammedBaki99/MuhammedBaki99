@@ -1,4 +1,4 @@
-# Merhaba, ben Baki! 👋
+# Merhaba, ben Muhammed Baki! 👋
 
 Ben bir Frontend Developer'ım. React, Next.js ve modern web teknolojileriyle ilgileniyorum.
 
