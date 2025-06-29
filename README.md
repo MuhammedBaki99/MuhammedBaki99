@@ -3,7 +3,7 @@
 Ben bir Frontend Developer'ım. React, Next.js ve modern web teknolojileriyle ilgileniyorum.
 
 ## 🚀 Kullandığım Teknolojiler:
-- React, Next.js
+- React, Next.js, TanStack
 - HTML, CSS, JavaScript, TypeScript
 - Tailwind CSS, SCSS
 - Firebase, Supabase
