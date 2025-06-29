@@ -9,8 +9,8 @@ Ben bir Frontend Developer'ım. React, Next.js ve modern web teknolojileriyle il
 - Firebase, Supabase
 
 ## 📈 GitHub İstatistiklerim:
-![Muhammed Baki'nin GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=MuhammedBaki99&show_icons=true&theme=radical)
-![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedBaki99&layout=compact&theme=radical)
+![Muhammed Baki'nin GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=MuhammedBaki99&show_icons=true&theme=tokyonight)
+![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedBaki99&layout=compact&theme=tokyonight)
 
 
 
