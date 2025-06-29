@@ -13,7 +13,7 @@ Ben bir Frontend Developer'ım. React, Next.js ve modern web teknolojileriyle il
 ![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedBaki99&layout=compact&theme=tokyonight)
 
 
-
 ## 📫 Bana Ulaş:
-- [LinkedIn]([https://linkedin.com/in/bakicaglayan](https://www.linkedin.com/in/muhammed-baki-%C3%A7a%C4%9Flayan-a2110128b/))
-- [Portfolio]([https://bakicaglayan.dev](https://www.muhammedbakicaglayan.com.tr))
+- [LinkedIn](https://www.linkedin.com/in/muhammed-baki-%C3%A7a%C4%9Flayan-a2110128b/)
+- [Portfolio](https://www.muhammedbakicaglayan.com.tr)
+
