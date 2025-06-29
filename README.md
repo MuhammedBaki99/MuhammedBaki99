@@ -2,17 +2,21 @@
 
 Ben bir Frontend Developer'ım. React, Next.js ve modern web teknolojileriyle ilgileniyorum.
 
-## 🚀 Kullandığım Teknolojiler:
+## 🚀 Kullandığım Teknolojiler
 
 ### 🧠 Programlama Dilleri
 - JavaScript
 - TypeScript
 
-### 🧩 Frontend Frameworkleri ve Kütüphaneleri
+### 🧩 Frontend Frameworkleri & Kütüphaneleri
 - React
 - Next.js
-- TanStack (React Query, TanStack Router)
+- TanStack (React Query, Router)
 - Zustand
+
+### 📋 Form Yönetimi & Doğrulama
+- Formik
+- Yup
 - Zod
 
 ### 🎨 UI & Stil Araçları
@@ -27,10 +31,6 @@ Ben bir Frontend Developer'ım. React, Next.js ve modern web teknolojileriyle il
 - Firebase
 - Supabase
 
-### 🛠️ Diğer Araçlar & Kütüphaneler
-- Shadcn UI
-- Lucide React
-- Swiper
 
 
 ## 📈 GitHub İstatistiklerim:
