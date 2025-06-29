@@ -3,10 +3,35 @@
 Ben bir Frontend Developer'ım. React, Next.js ve modern web teknolojileriyle ilgileniyorum.
 
 ## 🚀 Kullandığım Teknolojiler:
-- React, Next.js, TanStack
-- HTML, CSS, JavaScript, TypeScript
-- Tailwind CSS, SCSS
-- Firebase, Supabase
+
+### 🧠 Programlama Dilleri
+- JavaScript
+- TypeScript
+
+### 🧩 Frontend Frameworkleri ve Kütüphaneleri
+- React
+- Next.js
+- TanStack (React Query, TanStack Router)
+- Zustand
+- Zod
+
+### 🎨 UI & Stil Araçları
+- Tailwind CSS
+- SCSS / SASS
+- Shadcn UI
+- Ant Design
+- Lucide React
+- Swiper.js
+
+### ☁️ Backend & Veritabanı
+- Firebase
+- Supabase
+
+### 🛠️ Diğer Araçlar & Kütüphaneler
+- Shadcn UI
+- Lucide React
+- Swiper
+
 
 ## 📈 GitHub İstatistiklerim:
 ![Muhammed Baki'nin GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=MuhammedBaki99&show_icons=true&theme=tokyonight)
