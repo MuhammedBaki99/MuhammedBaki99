@@ -28,7 +28,6 @@ Ben bir Frontend Developer'ım. React, Next.js ve modern web teknolojileriyle il
 - Swiper.js
 
 ### ☁️ Backend & Veritabanı
-- Firebase
 - Supabase
 
 
