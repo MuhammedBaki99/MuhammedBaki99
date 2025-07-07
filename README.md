@@ -25,6 +25,7 @@ Ben bir Frontend Developer'ım. React, Next.js ve modern web teknolojileriyle il
 - Shadcn UI
 - Ant Design
 - Lucide React
+- İconify
 - Swiper.js
 
 ### ☁️ Backend & Veritabanı
